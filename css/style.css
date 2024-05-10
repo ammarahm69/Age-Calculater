@@ -1,0 +1,47 @@
+body {
+    background-color: #f9eec6b1 !important;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    font-size: 34px !important;
+    font-family: 'Ubuntu' !important;
+}
+
+span {
+    color: greenyellow !important;
+}
+
+.bg {
+    background-color: #003366 !important;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 8rem;
+    position: relative;
+    width: 50% !important;
+    height: 321px !important;
+    color: #003366 !important;
+    border: 2px solid black !important;
+    font-size: 23px !important;
+}
+
+button {
+    background-color: aqua;
+    padding: 13px 20px;
+    border: 2px solid black;
+    border-radius: 8px !important;
+    font-size: 14px !important;
+    font-weight: 900;
+    font-family: 'Ubuntu';
+
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+;
